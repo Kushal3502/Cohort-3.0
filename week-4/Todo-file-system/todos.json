@@ -1,6 +1,1 @@
-[
-  { "id": 203, "task": "Complete the assignment", "isCompleted": true },
-  { "id": 698, "task": "Task-2", "isCompleted": false },
-  { "id": 546, "task": "Task-3", "isCompleted": false },
-  { "id": 294, "task": "Task-4", "isCompleted": false }
-]
+[{"userId":1,"todos":[{"id":673,"task":"Task-1","isCompleted":true}]},{"userId":2,"todos":[{"id":679,"task":"Task-2","isCompleted":false}]},{"userId":3,"todos":[]}]
